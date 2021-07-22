@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Vidyayan/static/css/main.65bb7cf8.chunk.css",
+    "main.js": "/Vidyayan/static/js/main.b460b5f7.chunk.js",
+    "main.js.map": "/Vidyayan/static/js/main.b460b5f7.chunk.js.map",
+    "runtime-main.js": "/Vidyayan/static/js/runtime-main.1d8afd96.js",
+    "runtime-main.js.map": "/Vidyayan/static/js/runtime-main.1d8afd96.js.map",
+    "static/js/2.ec4a1dcf.chunk.js": "/Vidyayan/static/js/2.ec4a1dcf.chunk.js",
+    "static/js/2.ec4a1dcf.chunk.js.map": "/Vidyayan/static/js/2.ec4a1dcf.chunk.js.map",
+    "index.html": "/Vidyayan/index.html",
+    "static/css/main.65bb7cf8.chunk.css.map": "/Vidyayan/static/css/main.65bb7cf8.chunk.css.map",
+    "static/js/2.ec4a1dcf.chunk.js.LICENSE.txt": "/Vidyayan/static/js/2.ec4a1dcf.chunk.js.LICENSE.txt",
+    "static/media/abstraction_1.3ef14f30.svg": "/Vidyayan/static/media/abstraction_1.3ef14f30.svg",
+    "static/media/algorithms_1.a8024d2a.svg": "/Vidyayan/static/media/algorithms_1.a8024d2a.svg",
+    "static/media/android_1.0bbda50c.png": "/Vidyayan/static/media/android_1.0bbda50c.png",
+    "static/media/artificial-intelligence_1.a01ba009.svg": "/Vidyayan/static/media/artificial-intelligence_1.a01ba009.svg",
+    "static/media/banner_1.a5dc9bc7.svg": "/Vidyayan/static/media/banner_1.a5dc9bc7.svg",
+    "static/media/banner_2.3c0e470d.svg": "/Vidyayan/static/media/banner_2.3c0e470d.svg",
+    "static/media/c-plus-plus_1.fde6ab5c.png": "/Vidyayan/static/media/c-plus-plus_1.fde6ab5c.png",
+    "static/media/coding1_1.30dbc516.svg": "/Vidyayan/static/media/coding1_1.30dbc516.svg",
+    "static/media/coding_2.54a847e5.svg": "/Vidyayan/static/media/coding_2.54a847e5.svg",
+    "static/media/coding_3.85adf79f.svg": "/Vidyayan/static/media/coding_3.85adf79f.svg",
+    "static/media/cyber-security_1.c9b8f444.svg": "/Vidyayan/static/media/cyber-security_1.c9b8f444.svg",
+    "static/media/decomposition_1.62a8b71f.svg": "/Vidyayan/static/media/decomposition_1.62a8b71f.svg",
+    "static/media/evaluation_1.dcfaed42.svg": "/Vidyayan/static/media/evaluation_1.dcfaed42.svg",
+    "static/media/game-development_1.42d6f888.svg": "/Vidyayan/static/media/game-development_1.42d6f888.svg",
+    "static/media/logic_1.dfd0f807.svg": "/Vidyayan/static/media/logic_1.dfd0f807.svg",
+    "static/media/machine-learning_1.ed031f7b.svg": "/Vidyayan/static/media/machine-learning_1.ed031f7b.svg",
+    "static/media/pattern_1.ddd3d377.svg": "/Vidyayan/static/media/pattern_1.ddd3d377.svg",
+    "static/media/python_1.f57688a4.svg": "/Vidyayan/static/media/python_1.f57688a4.svg",
+    "static/media/python_2.68078709.png": "/Vidyayan/static/media/python_2.68078709.png",
+    "static/media/timeline_1.c568b8be.svg": "/Vidyayan/static/media/timeline_1.c568b8be.svg",
+    "static/media/web-development_1.6743d937.svg": "/Vidyayan/static/media/web-development_1.6743d937.svg",
+    "static/media/web-development_2.1c804cab.png": "/Vidyayan/static/media/web-development_2.1c804cab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d8afd96.js",
+    "static/js/2.ec4a1dcf.chunk.js",
+    "static/css/main.65bb7cf8.chunk.css",
+    "static/js/main.b460b5f7.chunk.js"
+  ]
+}
